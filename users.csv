@@ -1,0 +1,2001 @@
+user_id,signup_date,country,acquisition_channel
+1,2026-06-06,Germany,Referral
+2,2026-09-25,USA,Referral
+3,2026-01-14,Germany,Paid Ads
+4,2026-06-01,Germany,Referral
+5,2026-03-28,UK,Organic
+6,2026-08-23,USA,Referral
+7,2026-09-08,India,Referral
+8,2026-06-13,UK,Paid Ads
+9,2026-12-20,USA,Referral
+10,2026-08-16,USA,Referral
+11,2026-10-17,UK,Paid Ads
+12,2026-09-19,USA,Organic
+13,2026-08-30,India,Organic
+14,2026-01-17,India,Organic
+15,2026-05-20,Germany,Paid Ads
+16,2026-02-24,India,Referral
+17,2026-10-26,UK,Organic
+18,2026-07-09,Germany,Referral
+19,2026-06-23,Germany,Organic
+20,2026-11-07,UK,Organic
+21,2026-02-09,UK,Referral
+22,2026-08-17,USA,Paid Ads
+23,2026-10-06,UK,Paid Ads
+24,2026-11-24,UK,Paid Ads
+25,2026-02-09,India,Paid Ads
+26,2026-03-05,India,Organic
+27,2026-10-04,USA,Organic
+28,2026-02-04,UK,Referral
+29,2026-08-01,USA,Referral
+30,2026-03-06,Germany,Referral
+31,2026-11-16,India,Paid Ads
+32,2026-03-07,India,Referral
+33,2026-04-12,USA,Referral
+34,2026-03-24,Germany,Paid Ads
+35,2026-08-12,UK,Referral
+36,2026-08-02,UK,Organic
+37,2026-06-04,USA,Paid Ads
+38,2026-05-09,UK,Paid Ads
+39,2026-12-13,USA,Referral
+40,2026-05-05,USA,Organic
+41,2026-02-08,UK,Paid Ads
+42,2026-01-31,India,Paid Ads
+43,2026-02-19,USA,Organic
+44,2026-09-23,UK,Referral
+45,2026-01-18,India,Paid Ads
+46,2026-12-28,USA,Paid Ads
+47,2026-11-27,UK,Paid Ads
+48,2026-04-29,India,Referral
+49,2026-10-09,Germany,Paid Ads
+50,2026-08-06,India,Referral
+51,2026-08-12,Germany,Referral
+52,2026-09-24,India,Paid Ads
+53,2026-05-22,India,Organic
+54,2026-07-07,UK,Organic
+55,2026-09-06,USA,Organic
+56,2026-09-26,USA,Referral
+57,2026-05-29,USA,Organic
+58,2026-07-23,Germany,Paid Ads
+59,2026-06-20,UK,Organic
+60,2026-01-10,UK,Referral
+61,2026-09-30,Germany,Organic
+62,2026-10-06,India,Referral
+63,2026-05-21,India,Referral
+64,2026-10-12,UK,Organic
+65,2026-07-15,UK,Organic
+66,2026-02-25,UK,Paid Ads
+67,2026-08-24,USA,Organic
+68,2026-05-07,UK,Referral
+69,2026-10-14,India,Organic
+70,2026-07-09,Germany,Organic
+71,2026-05-04,Germany,Referral
+72,2026-07-21,India,Referral
+73,2026-12-24,Germany,Paid Ads
+74,2026-11-30,UK,Paid Ads
+75,2026-11-02,Germany,Organic
+76,2026-11-12,USA,Paid Ads
+77,2026-02-25,Germany,Organic
+78,2026-03-01,India,Referral
+79,2026-07-07,India,Paid Ads
+80,2026-09-07,UK,Referral
+81,2026-06-23,Germany,Referral
+82,2026-03-26,UK,Organic
+83,2026-01-08,USA,Paid Ads
+84,2026-08-10,UK,Paid Ads
+85,2026-01-18,USA,Organic
+86,2026-04-12,USA,Paid Ads
+87,2026-01-15,USA,Referral
+88,2026-06-08,UK,Paid Ads
+89,2026-04-08,UK,Paid Ads
+90,2026-12-28,UK,Paid Ads
+91,2026-02-06,India,Referral
+92,2026-09-25,Germany,Paid Ads
+93,2026-12-01,Germany,Referral
+94,2026-04-07,UK,Paid Ads
+95,2026-04-16,USA,Organic
+96,2026-11-16,Germany,Referral
+97,2026-04-10,UK,Referral
+98,2026-08-14,India,Paid Ads
+99,2026-07-20,Germany,Paid Ads
+100,2026-09-08,Germany,Paid Ads
+101,2026-12-26,India,Organic
+102,2026-10-14,UK,Paid Ads
+103,2026-01-30,Germany,Paid Ads
+104,2026-05-29,Germany,Organic
+105,2026-04-13,India,Paid Ads
+106,2026-12-08,UK,Paid Ads
+107,2026-08-21,India,Organic
+108,2026-07-28,Germany,Organic
+109,2026-04-23,Germany,Paid Ads
+110,2026-09-05,India,Referral
+111,2026-02-20,India,Referral
+112,2026-05-25,Germany,Organic
+113,2026-05-27,UK,Organic
+114,2026-10-15,India,Paid Ads
+115,2026-09-10,UK,Referral
+116,2026-03-08,USA,Paid Ads
+117,2026-06-13,UK,Paid Ads
+118,2026-05-13,UK,Referral
+119,2026-09-29,India,Referral
+120,2026-09-21,USA,Referral
+121,2026-11-01,UK,Paid Ads
+122,2026-07-13,Germany,Organic
+123,2026-05-28,India,Referral
+124,2026-02-21,USA,Organic
+125,2026-02-06,Germany,Paid Ads
+126,2026-12-08,India,Paid Ads
+127,2026-03-23,UK,Paid Ads
+128,2026-10-20,UK,Organic
+129,2026-04-08,UK,Paid Ads
+130,2026-04-16,USA,Referral
+131,2026-01-19,India,Paid Ads
+132,2026-06-03,USA,Paid Ads
+133,2026-10-28,India,Paid Ads
+134,2026-07-06,Germany,Paid Ads
+135,2026-06-24,India,Referral
+136,2026-07-21,UK,Referral
+137,2026-11-14,UK,Organic
+138,2026-03-17,UK,Referral
+139,2026-02-15,Germany,Paid Ads
+140,2026-01-13,USA,Referral
+141,2026-03-15,India,Organic
+142,2026-06-20,India,Referral
+143,2026-05-23,USA,Organic
+144,2026-05-02,India,Referral
+145,2026-01-29,Germany,Organic
+146,2026-06-19,India,Organic
+147,2026-03-30,Germany,Referral
+148,2026-09-29,UK,Paid Ads
+149,2026-11-09,UK,Paid Ads
+150,2026-09-07,UK,Organic
+151,2026-12-21,Germany,Referral
+152,2026-04-29,India,Paid Ads
+153,2026-11-23,India,Organic
+154,2026-09-27,Germany,Paid Ads
+155,2026-10-04,USA,Organic
+156,2026-03-22,UK,Paid Ads
+157,2026-01-11,USA,Paid Ads
+158,2026-12-29,India,Organic
+159,2026-10-16,Germany,Referral
+160,2026-07-28,UK,Referral
+161,2026-03-12,India,Paid Ads
+162,2026-02-08,Germany,Paid Ads
+163,2026-06-24,Germany,Paid Ads
+164,2026-05-11,USA,Organic
+165,2026-03-11,USA,Referral
+166,2026-10-16,UK,Organic
+167,2026-03-06,USA,Paid Ads
+168,2026-01-06,USA,Organic
+169,2026-09-11,Germany,Organic
+170,2026-12-24,Germany,Referral
+171,2026-11-23,UK,Organic
+172,2026-12-12,India,Organic
+173,2026-04-12,India,Organic
+174,2026-12-15,Germany,Organic
+175,2026-07-05,USA,Paid Ads
+176,2026-02-04,India,Paid Ads
+177,2026-01-14,USA,Paid Ads
+178,2026-01-18,India,Organic
+179,2026-02-15,Germany,Paid Ads
+180,2026-03-09,USA,Organic
+181,2026-07-25,India,Paid Ads
+182,2026-04-11,UK,Organic
+183,2026-09-01,Germany,Organic
+184,2026-07-28,UK,Paid Ads
+185,2026-10-24,Germany,Referral
+186,2026-12-26,India,Referral
+187,2026-05-24,UK,Paid Ads
+188,2026-11-02,Germany,Paid Ads
+189,2026-06-07,USA,Organic
+190,2026-06-16,India,Referral
+191,2026-02-24,Germany,Organic
+192,2026-11-27,USA,Referral
+193,2026-11-16,Germany,Organic
+194,2026-11-28,USA,Organic
+195,2026-06-20,UK,Paid Ads
+196,2026-12-30,UK,Paid Ads
+197,2026-11-16,Germany,Paid Ads
+198,2026-05-02,India,Referral
+199,2026-08-17,UK,Organic
+200,2026-03-16,India,Referral
+201,2026-07-20,USA,Paid Ads
+202,2026-08-05,USA,Organic
+203,2026-03-29,Germany,Referral
+204,2026-04-27,UK,Referral
+205,2026-03-30,UK,Organic
+206,2026-11-06,USA,Referral
+207,2026-09-11,Germany,Organic
+208,2026-09-10,USA,Organic
+209,2026-01-13,India,Referral
+210,2026-10-21,USA,Paid Ads
+211,2026-04-03,Germany,Paid Ads
+212,2026-03-16,USA,Organic
+213,2026-08-26,Germany,Organic
+214,2026-01-06,Germany,Organic
+215,2026-12-31,Germany,Organic
+216,2026-04-29,UK,Referral
+217,2026-08-03,India,Organic
+218,2026-04-27,Germany,Referral
+219,2026-08-15,Germany,Referral
+220,2026-12-21,USA,Referral
+221,2026-03-13,India,Organic
+222,2026-04-08,India,Paid Ads
+223,2026-02-02,Germany,Paid Ads
+224,2026-05-12,UK,Paid Ads
+225,2026-07-15,India,Organic
+226,2026-05-23,UK,Referral
+227,2026-07-28,Germany,Organic
+228,2026-05-21,UK,Paid Ads
+229,2026-06-06,Germany,Paid Ads
+230,2026-08-06,USA,Referral
+231,2026-03-23,UK,Referral
+232,2026-03-15,Germany,Organic
+233,2026-09-12,India,Organic
+234,2026-12-13,USA,Referral
+235,2026-11-09,India,Paid Ads
+236,2026-07-16,India,Organic
+237,2026-03-30,UK,Referral
+238,2026-05-19,India,Paid Ads
+239,2026-01-16,Germany,Organic
+240,2026-01-13,USA,Referral
+241,2026-01-22,Germany,Referral
+242,2026-03-06,Germany,Referral
+243,2026-04-27,USA,Organic
+244,2026-05-16,UK,Referral
+245,2026-06-05,USA,Referral
+246,2026-05-21,UK,Paid Ads
+247,2026-07-26,UK,Referral
+248,2026-03-14,USA,Referral
+249,2026-06-17,Germany,Organic
+250,2026-11-06,Germany,Referral
+251,2026-03-25,India,Organic
+252,2026-07-02,UK,Paid Ads
+253,2026-05-23,Germany,Organic
+254,2026-09-04,Germany,Paid Ads
+255,2026-02-10,UK,Referral
+256,2026-01-14,Germany,Paid Ads
+257,2026-06-27,India,Referral
+258,2026-03-05,USA,Referral
+259,2026-01-29,UK,Referral
+260,2026-10-08,USA,Organic
+261,2026-12-29,USA,Referral
+262,2026-07-25,UK,Paid Ads
+263,2026-01-30,USA,Paid Ads
+264,2026-09-22,UK,Organic
+265,2026-11-14,USA,Organic
+266,2026-05-29,India,Paid Ads
+267,2026-06-27,USA,Referral
+268,2026-03-01,USA,Organic
+269,2026-08-18,USA,Organic
+270,2026-06-27,Germany,Referral
+271,2026-12-22,USA,Organic
+272,2026-04-04,UK,Organic
+273,2026-12-27,USA,Paid Ads
+274,2026-01-27,UK,Referral
+275,2026-02-01,USA,Referral
+276,2026-09-04,USA,Paid Ads
+277,2026-06-03,Germany,Organic
+278,2026-07-21,Germany,Organic
+279,2026-01-17,India,Paid Ads
+280,2026-01-15,India,Paid Ads
+281,2026-11-01,UK,Organic
+282,2026-03-21,Germany,Referral
+283,2026-11-20,UK,Referral
+284,2026-01-06,India,Organic
+285,2026-07-11,USA,Paid Ads
+286,2026-11-29,USA,Organic
+287,2026-01-22,India,Paid Ads
+288,2026-07-14,Germany,Paid Ads
+289,2026-09-01,Germany,Paid Ads
+290,2026-07-13,India,Paid Ads
+291,2026-09-16,UK,Organic
+292,2026-04-05,India,Referral
+293,2026-04-06,India,Organic
+294,2026-09-22,UK,Organic
+295,2026-08-16,UK,Referral
+296,2026-04-18,India,Referral
+297,2026-09-08,India,Paid Ads
+298,2026-03-23,USA,Referral
+299,2026-02-20,USA,Paid Ads
+300,2026-03-25,UK,Referral
+301,2026-04-26,Germany,Paid Ads
+302,2026-05-21,UK,Organic
+303,2026-09-14,India,Paid Ads
+304,2026-06-06,UK,Organic
+305,2026-03-27,Germany,Organic
+306,2026-10-18,India,Referral
+307,2026-04-22,UK,Referral
+308,2026-07-06,Germany,Paid Ads
+309,2026-12-10,UK,Organic
+310,2026-01-23,India,Organic
+311,2026-12-24,India,Referral
+312,2026-06-15,USA,Referral
+313,2026-10-02,Germany,Referral
+314,2026-08-15,Germany,Organic
+315,2026-08-26,Germany,Referral
+316,2026-02-05,USA,Referral
+317,2026-02-06,UK,Paid Ads
+318,2026-02-12,India,Referral
+319,2026-04-16,USA,Referral
+320,2026-03-26,USA,Organic
+321,2026-09-04,UK,Organic
+322,2026-10-08,UK,Referral
+323,2026-07-14,India,Paid Ads
+324,2026-12-06,India,Organic
+325,2026-06-10,India,Referral
+326,2026-09-17,UK,Organic
+327,2026-10-06,India,Organic
+328,2026-03-11,USA,Paid Ads
+329,2026-10-17,USA,Paid Ads
+330,2026-06-05,USA,Organic
+331,2026-10-08,UK,Referral
+332,2026-09-01,India,Referral
+333,2026-08-08,USA,Paid Ads
+334,2026-12-01,India,Referral
+335,2026-12-12,Germany,Paid Ads
+336,2026-02-01,USA,Paid Ads
+337,2026-06-01,USA,Referral
+338,2026-04-28,USA,Organic
+339,2026-03-02,UK,Organic
+340,2026-04-16,Germany,Referral
+341,2026-05-21,USA,Paid Ads
+342,2026-11-21,Germany,Referral
+343,2026-06-06,USA,Organic
+344,2026-08-02,UK,Organic
+345,2026-02-08,USA,Paid Ads
+346,2026-10-08,India,Paid Ads
+347,2026-04-22,USA,Referral
+348,2026-07-04,India,Paid Ads
+349,2026-08-31,India,Organic
+350,2026-12-14,USA,Organic
+351,2026-05-05,Germany,Organic
+352,2026-04-18,India,Paid Ads
+353,2026-07-02,India,Organic
+354,2026-12-13,USA,Paid Ads
+355,2026-12-29,UK,Organic
+356,2026-06-23,USA,Referral
+357,2026-10-13,UK,Organic
+358,2026-11-09,USA,Organic
+359,2026-05-18,Germany,Referral
+360,2026-07-08,Germany,Organic
+361,2026-08-11,USA,Referral
+362,2026-02-15,UK,Organic
+363,2026-12-08,India,Organic
+364,2026-01-01,USA,Paid Ads
+365,2026-12-08,Germany,Organic
+366,2026-09-24,USA,Referral
+367,2026-01-10,USA,Referral
+368,2026-11-17,India,Referral
+369,2026-11-09,India,Paid Ads
+370,2026-06-22,Germany,Organic
+371,2026-10-23,India,Referral
+372,2026-12-11,USA,Paid Ads
+373,2026-06-15,India,Organic
+374,2026-07-31,India,Paid Ads
+375,2026-02-17,India,Organic
+376,2026-03-18,UK,Paid Ads
+377,2026-01-11,UK,Paid Ads
+378,2026-02-28,India,Referral
+379,2026-07-14,USA,Referral
+380,2026-10-26,India,Referral
+381,2026-08-25,UK,Referral
+382,2026-09-20,UK,Paid Ads
+383,2026-01-30,Germany,Referral
+384,2026-04-18,India,Organic
+385,2026-12-25,Germany,Referral
+386,2026-04-20,Germany,Referral
+387,2026-07-26,Germany,Organic
+388,2026-12-22,USA,Paid Ads
+389,2026-05-27,USA,Paid Ads
+390,2026-12-13,USA,Organic
+391,2026-09-17,India,Organic
+392,2026-07-03,Germany,Organic
+393,2026-10-27,Germany,Paid Ads
+394,2026-01-02,India,Paid Ads
+395,2026-10-30,UK,Paid Ads
+396,2026-08-25,UK,Organic
+397,2026-06-10,Germany,Paid Ads
+398,2026-07-14,Germany,Referral
+399,2026-12-26,India,Organic
+400,2026-11-28,USA,Paid Ads
+401,2026-10-25,Germany,Organic
+402,2026-03-19,Germany,Paid Ads
+403,2026-04-17,India,Paid Ads
+404,2026-07-22,UK,Referral
+405,2026-06-28,UK,Paid Ads
+406,2026-08-16,USA,Organic
+407,2026-09-05,India,Organic
+408,2026-06-12,USA,Referral
+409,2026-03-05,India,Paid Ads
+410,2026-06-29,Germany,Paid Ads
+411,2026-07-22,UK,Paid Ads
+412,2026-09-06,USA,Paid Ads
+413,2026-02-07,UK,Organic
+414,2026-06-27,Germany,Paid Ads
+415,2026-11-24,India,Paid Ads
+416,2026-05-24,Germany,Paid Ads
+417,2026-03-09,Germany,Organic
+418,2026-07-20,UK,Referral
+419,2026-10-24,India,Paid Ads
+420,2026-08-03,Germany,Paid Ads
+421,2026-12-15,USA,Organic
+422,2026-11-22,UK,Organic
+423,2026-03-30,Germany,Referral
+424,2026-09-09,India,Referral
+425,2026-02-13,UK,Organic
+426,2026-10-24,India,Organic
+427,2026-04-12,UK,Paid Ads
+428,2026-10-08,USA,Referral
+429,2026-03-05,Germany,Referral
+430,2026-04-08,India,Organic
+431,2026-08-22,USA,Paid Ads
+432,2026-12-31,USA,Referral
+433,2026-07-26,USA,Referral
+434,2026-09-18,UK,Paid Ads
+435,2026-04-04,India,Organic
+436,2026-11-06,India,Paid Ads
+437,2026-11-22,India,Referral
+438,2026-05-26,USA,Paid Ads
+439,2026-09-07,India,Referral
+440,2026-02-28,UK,Organic
+441,2026-08-21,UK,Referral
+442,2026-04-05,UK,Referral
+443,2026-03-24,UK,Referral
+444,2026-09-27,USA,Organic
+445,2026-10-15,India,Referral
+446,2026-10-19,USA,Organic
+447,2026-01-27,USA,Paid Ads
+448,2026-07-15,India,Paid Ads
+449,2026-01-27,India,Referral
+450,2026-11-26,India,Organic
+451,2026-04-15,India,Paid Ads
+452,2026-02-27,Germany,Paid Ads
+453,2026-01-25,India,Paid Ads
+454,2026-05-12,Germany,Organic
+455,2026-11-04,USA,Referral
+456,2026-10-21,India,Referral
+457,2026-04-20,India,Organic
+458,2026-12-18,USA,Paid Ads
+459,2026-08-14,Germany,Organic
+460,2026-05-15,UK,Paid Ads
+461,2026-03-05,India,Organic
+462,2026-10-28,India,Paid Ads
+463,2026-04-21,USA,Paid Ads
+464,2026-09-21,India,Referral
+465,2026-11-22,UK,Organic
+466,2026-10-30,Germany,Referral
+467,2026-03-07,UK,Referral
+468,2026-03-02,USA,Organic
+469,2026-08-01,USA,Referral
+470,2026-08-13,USA,Referral
+471,2026-06-01,Germany,Paid Ads
+472,2026-06-25,USA,Referral
+473,2026-04-13,India,Organic
+474,2026-11-21,India,Organic
+475,2026-03-14,India,Paid Ads
+476,2026-05-17,USA,Paid Ads
+477,2026-12-24,India,Paid Ads
+478,2026-03-01,India,Organic
+479,2026-10-10,UK,Referral
+480,2026-08-19,USA,Organic
+481,2026-08-13,Germany,Organic
+482,2026-03-13,USA,Paid Ads
+483,2026-12-03,Germany,Paid Ads
+484,2026-03-02,Germany,Referral
+485,2026-03-21,USA,Paid Ads
+486,2026-10-09,Germany,Paid Ads
+487,2026-10-27,UK,Paid Ads
+488,2026-03-30,UK,Referral
+489,2026-11-27,USA,Referral
+490,2026-06-03,UK,Referral
+491,2026-08-07,UK,Paid Ads
+492,2026-07-03,India,Organic
+493,2026-08-27,Germany,Referral
+494,2026-01-10,USA,Referral
+495,2026-08-08,Germany,Referral
+496,2026-11-01,India,Referral
+497,2026-11-18,India,Organic
+498,2026-04-15,Germany,Referral
+499,2026-05-27,UK,Paid Ads
+500,2026-08-13,India,Organic
+501,2026-04-19,UK,Paid Ads
+502,2026-11-03,Germany,Paid Ads
+503,2026-12-18,UK,Referral
+504,2026-10-23,USA,Paid Ads
+505,2026-01-22,Germany,Paid Ads
+506,2026-02-19,Germany,Paid Ads
+507,2026-01-03,Germany,Paid Ads
+508,2026-02-24,Germany,Organic
+509,2026-10-30,USA,Paid Ads
+510,2026-12-20,India,Organic
+511,2026-04-06,UK,Paid Ads
+512,2026-11-01,India,Paid Ads
+513,2026-12-14,India,Paid Ads
+514,2026-01-06,UK,Paid Ads
+515,2026-07-06,Germany,Organic
+516,2026-01-09,UK,Referral
+517,2026-05-10,Germany,Paid Ads
+518,2026-03-25,USA,Paid Ads
+519,2026-08-02,USA,Organic
+520,2026-06-26,Germany,Referral
+521,2026-03-21,India,Organic
+522,2026-07-22,Germany,Organic
+523,2026-10-20,USA,Organic
+524,2026-06-24,UK,Organic
+525,2026-04-17,UK,Organic
+526,2026-01-01,Germany,Paid Ads
+527,2026-08-14,USA,Referral
+528,2026-12-10,Germany,Organic
+529,2026-01-14,Germany,Paid Ads
+530,2026-04-11,India,Referral
+531,2026-03-02,UK,Organic
+532,2026-08-25,UK,Paid Ads
+533,2026-03-22,USA,Organic
+534,2026-06-19,India,Referral
+535,2026-02-02,Germany,Organic
+536,2026-07-29,India,Paid Ads
+537,2026-06-20,India,Organic
+538,2026-01-16,USA,Paid Ads
+539,2026-12-14,USA,Referral
+540,2026-03-03,Germany,Referral
+541,2026-01-24,Germany,Organic
+542,2026-04-22,UK,Referral
+543,2026-10-14,Germany,Organic
+544,2026-02-19,India,Paid Ads
+545,2026-05-15,Germany,Referral
+546,2026-09-14,Germany,Paid Ads
+547,2026-03-19,UK,Organic
+548,2026-01-29,USA,Organic
+549,2026-03-06,UK,Organic
+550,2026-05-02,UK,Referral
+551,2026-08-03,USA,Organic
+552,2026-04-01,Germany,Organic
+553,2026-11-30,USA,Paid Ads
+554,2026-11-06,USA,Organic
+555,2026-11-18,USA,Organic
+556,2026-11-24,Germany,Paid Ads
+557,2026-04-14,UK,Organic
+558,2026-08-15,UK,Organic
+559,2026-11-08,UK,Referral
+560,2026-02-20,India,Organic
+561,2026-03-23,Germany,Referral
+562,2026-04-02,UK,Referral
+563,2026-11-29,India,Organic
+564,2026-11-30,Germany,Paid Ads
+565,2026-12-08,Germany,Referral
+566,2026-03-13,Germany,Paid Ads
+567,2026-08-04,Germany,Paid Ads
+568,2026-10-06,India,Paid Ads
+569,2026-04-23,Germany,Referral
+570,2026-04-29,Germany,Organic
+571,2026-04-24,Germany,Referral
+572,2026-05-02,India,Paid Ads
+573,2026-11-04,India,Referral
+574,2026-09-02,India,Referral
+575,2026-07-31,UK,Referral
+576,2026-12-30,USA,Paid Ads
+577,2026-02-27,UK,Referral
+578,2026-08-08,UK,Organic
+579,2026-08-28,India,Referral
+580,2026-05-28,UK,Referral
+581,2026-08-23,Germany,Organic
+582,2026-05-29,Germany,Referral
+583,2026-03-12,India,Referral
+584,2026-01-02,Germany,Referral
+585,2026-03-05,India,Paid Ads
+586,2026-11-18,India,Organic
+587,2026-07-06,USA,Referral
+588,2026-06-21,India,Referral
+589,2026-12-06,USA,Referral
+590,2026-10-05,UK,Referral
+591,2026-10-18,India,Paid Ads
+592,2026-10-14,USA,Paid Ads
+593,2026-08-28,USA,Referral
+594,2026-03-18,India,Paid Ads
+595,2026-03-27,USA,Referral
+596,2026-11-18,India,Referral
+597,2026-11-26,UK,Organic
+598,2026-02-21,UK,Referral
+599,2026-02-25,Germany,Paid Ads
+600,2026-08-21,India,Organic
+601,2026-12-15,USA,Referral
+602,2026-09-30,Germany,Paid Ads
+603,2026-06-23,Germany,Paid Ads
+604,2026-08-06,USA,Referral
+605,2026-07-10,USA,Organic
+606,2026-04-18,Germany,Paid Ads
+607,2026-11-07,Germany,Referral
+608,2026-03-30,Germany,Paid Ads
+609,2026-05-13,India,Organic
+610,2026-05-12,UK,Referral
+611,2026-02-24,India,Referral
+612,2026-03-09,UK,Paid Ads
+613,2026-07-08,UK,Referral
+614,2026-11-21,India,Referral
+615,2026-11-06,India,Paid Ads
+616,2026-06-11,India,Organic
+617,2026-12-31,UK,Organic
+618,2026-08-08,USA,Paid Ads
+619,2026-04-04,UK,Referral
+620,2026-01-20,UK,Paid Ads
+621,2026-06-04,Germany,Referral
+622,2026-06-20,India,Organic
+623,2026-09-07,India,Paid Ads
+624,2026-10-04,USA,Organic
+625,2026-07-09,Germany,Organic
+626,2026-06-25,UK,Paid Ads
+627,2026-10-31,India,Organic
+628,2026-05-29,Germany,Referral
+629,2026-02-27,UK,Referral
+630,2026-06-18,India,Referral
+631,2026-12-08,India,Paid Ads
+632,2026-07-22,UK,Paid Ads
+633,2026-03-05,UK,Paid Ads
+634,2026-10-28,USA,Paid Ads
+635,2026-06-18,UK,Referral
+636,2026-02-27,Germany,Organic
+637,2026-06-08,USA,Referral
+638,2026-02-05,UK,Organic
+639,2026-02-25,USA,Organic
+640,2026-02-21,Germany,Organic
+641,2026-03-20,UK,Paid Ads
+642,2026-11-27,Germany,Paid Ads
+643,2026-08-29,India,Referral
+644,2026-01-15,USA,Paid Ads
+645,2026-08-16,India,Paid Ads
+646,2026-05-05,UK,Organic
+647,2026-03-24,Germany,Referral
+648,2026-12-09,UK,Paid Ads
+649,2026-03-10,India,Paid Ads
+650,2026-01-26,India,Referral
+651,2026-01-02,UK,Referral
+652,2026-12-31,UK,Paid Ads
+653,2026-08-29,UK,Organic
+654,2026-08-12,USA,Paid Ads
+655,2026-05-02,UK,Referral
+656,2026-09-05,USA,Referral
+657,2026-10-25,UK,Paid Ads
+658,2026-10-20,India,Referral
+659,2026-02-25,UK,Referral
+660,2026-09-28,UK,Organic
+661,2026-09-07,Germany,Paid Ads
+662,2026-09-08,USA,Paid Ads
+663,2026-07-16,Germany,Paid Ads
+664,2026-06-24,India,Organic
+665,2026-07-03,USA,Referral
+666,2026-11-26,India,Paid Ads
+667,2026-12-07,Germany,Referral
+668,2026-10-04,UK,Organic
+669,2026-07-28,UK,Paid Ads
+670,2026-10-10,USA,Paid Ads
+671,2026-06-06,Germany,Paid Ads
+672,2026-05-07,USA,Paid Ads
+673,2026-11-14,India,Paid Ads
+674,2026-03-04,USA,Organic
+675,2026-06-10,Germany,Paid Ads
+676,2026-12-19,Germany,Organic
+677,2026-11-05,Germany,Paid Ads
+678,2026-01-06,UK,Organic
+679,2026-03-14,USA,Referral
+680,2026-02-24,India,Referral
+681,2026-08-10,India,Paid Ads
+682,2026-03-22,UK,Paid Ads
+683,2026-05-02,UK,Paid Ads
+684,2026-01-06,USA,Paid Ads
+685,2026-08-12,UK,Organic
+686,2026-03-04,Germany,Referral
+687,2026-01-06,USA,Paid Ads
+688,2026-09-21,USA,Organic
+689,2026-06-10,UK,Organic
+690,2026-03-07,Germany,Referral
+691,2026-07-12,UK,Referral
+692,2026-11-23,UK,Organic
+693,2026-11-20,India,Paid Ads
+694,2026-10-11,India,Organic
+695,2026-03-28,Germany,Paid Ads
+696,2026-01-14,Germany,Referral
+697,2026-12-19,Germany,Paid Ads
+698,2026-12-08,UK,Organic
+699,2026-01-27,USA,Organic
+700,2026-02-14,UK,Paid Ads
+701,2026-09-01,Germany,Paid Ads
+702,2026-08-30,Germany,Referral
+703,2026-07-22,India,Referral
+704,2026-12-15,Germany,Referral
+705,2026-06-11,USA,Referral
+706,2026-12-12,Germany,Organic
+707,2026-07-15,USA,Paid Ads
+708,2026-01-29,India,Referral
+709,2026-06-12,UK,Referral
+710,2026-11-30,UK,Paid Ads
+711,2026-06-03,India,Paid Ads
+712,2026-12-15,USA,Organic
+713,2026-02-13,USA,Referral
+714,2026-12-09,Germany,Paid Ads
+715,2026-11-02,Germany,Paid Ads
+716,2026-02-05,Germany,Referral
+717,2026-04-04,USA,Paid Ads
+718,2026-02-15,USA,Referral
+719,2026-04-13,USA,Paid Ads
+720,2026-05-20,USA,Paid Ads
+721,2026-02-18,USA,Paid Ads
+722,2026-09-24,Germany,Paid Ads
+723,2026-06-04,Germany,Paid Ads
+724,2026-10-25,USA,Organic
+725,2026-08-16,Germany,Referral
+726,2026-09-09,Germany,Referral
+727,2026-03-07,UK,Organic
+728,2026-01-23,Germany,Referral
+729,2026-03-22,India,Referral
+730,2026-08-20,India,Referral
+731,2026-09-07,USA,Paid Ads
+732,2026-01-02,Germany,Paid Ads
+733,2026-02-26,India,Referral
+734,2026-05-16,India,Paid Ads
+735,2026-04-30,Germany,Referral
+736,2026-08-13,India,Organic
+737,2026-09-24,Germany,Organic
+738,2026-03-14,India,Paid Ads
+739,2026-02-06,UK,Organic
+740,2026-05-11,India,Organic
+741,2026-01-10,Germany,Organic
+742,2026-06-09,Germany,Paid Ads
+743,2026-02-23,USA,Organic
+744,2026-03-13,UK,Organic
+745,2026-05-06,USA,Paid Ads
+746,2026-05-15,Germany,Organic
+747,2026-05-04,USA,Organic
+748,2026-02-28,USA,Organic
+749,2026-05-19,USA,Paid Ads
+750,2026-02-22,USA,Organic
+751,2026-03-14,India,Paid Ads
+752,2026-08-28,India,Referral
+753,2026-01-26,USA,Referral
+754,2026-09-12,UK,Referral
+755,2026-06-13,India,Organic
+756,2026-10-08,USA,Referral
+757,2026-05-27,UK,Referral
+758,2026-10-28,USA,Paid Ads
+759,2026-10-29,USA,Referral
+760,2026-08-18,USA,Paid Ads
+761,2026-04-04,UK,Organic
+762,2026-10-19,UK,Referral
+763,2026-12-20,Germany,Organic
+764,2026-11-26,Germany,Paid Ads
+765,2026-08-17,UK,Referral
+766,2026-05-12,USA,Referral
+767,2026-01-03,Germany,Referral
+768,2026-12-11,USA,Referral
+769,2026-10-22,UK,Referral
+770,2026-01-17,India,Paid Ads
+771,2026-06-13,UK,Paid Ads
+772,2026-12-01,USA,Organic
+773,2026-10-22,USA,Organic
+774,2026-11-28,Germany,Organic
+775,2026-08-26,India,Paid Ads
+776,2026-08-22,UK,Paid Ads
+777,2026-04-29,USA,Referral
+778,2026-02-28,USA,Referral
+779,2026-12-18,UK,Organic
+780,2026-10-14,USA,Paid Ads
+781,2026-07-04,Germany,Paid Ads
+782,2026-06-08,India,Organic
+783,2026-01-22,India,Referral
+784,2026-02-09,UK,Paid Ads
+785,2026-02-03,UK,Referral
+786,2026-10-20,India,Organic
+787,2026-06-01,USA,Organic
+788,2026-12-04,UK,Referral
+789,2026-01-04,India,Paid Ads
+790,2026-10-27,USA,Organic
+791,2026-06-12,Germany,Organic
+792,2026-11-26,Germany,Referral
+793,2026-08-01,UK,Organic
+794,2026-03-16,USA,Referral
+795,2026-05-10,USA,Paid Ads
+796,2026-03-23,USA,Organic
+797,2026-12-02,India,Referral
+798,2026-04-22,USA,Organic
+799,2026-01-18,USA,Paid Ads
+800,2026-02-14,Germany,Paid Ads
+801,2026-03-23,UK,Organic
+802,2026-06-05,Germany,Organic
+803,2026-08-03,Germany,Paid Ads
+804,2026-04-24,UK,Paid Ads
+805,2026-02-18,Germany,Paid Ads
+806,2026-10-27,UK,Referral
+807,2026-01-22,UK,Organic
+808,2026-06-28,USA,Organic
+809,2026-02-08,USA,Referral
+810,2026-04-23,UK,Referral
+811,2026-11-27,Germany,Organic
+812,2026-07-12,USA,Organic
+813,2026-03-13,Germany,Organic
+814,2026-03-03,UK,Referral
+815,2026-06-10,Germany,Organic
+816,2026-10-17,India,Referral
+817,2026-08-15,Germany,Referral
+818,2026-03-09,USA,Organic
+819,2026-04-02,USA,Organic
+820,2026-06-25,India,Referral
+821,2026-05-06,India,Organic
+822,2026-03-11,USA,Referral
+823,2026-05-19,USA,Paid Ads
+824,2026-05-13,USA,Paid Ads
+825,2026-05-08,UK,Referral
+826,2026-07-05,Germany,Referral
+827,2026-01-24,India,Referral
+828,2026-10-03,UK,Referral
+829,2026-10-31,Germany,Referral
+830,2026-07-01,UK,Organic
+831,2026-05-30,Germany,Organic
+832,2026-11-23,USA,Organic
+833,2026-10-23,USA,Referral
+834,2026-06-30,India,Organic
+835,2026-11-18,USA,Referral
+836,2026-10-27,USA,Referral
+837,2026-11-10,Germany,Paid Ads
+838,2026-02-06,UK,Organic
+839,2026-08-16,UK,Organic
+840,2026-01-22,India,Paid Ads
+841,2026-02-11,UK,Organic
+842,2026-02-28,UK,Paid Ads
+843,2026-10-10,USA,Referral
+844,2026-05-08,UK,Paid Ads
+845,2026-11-10,USA,Organic
+846,2026-07-06,UK,Paid Ads
+847,2026-08-28,USA,Referral
+848,2026-05-23,Germany,Paid Ads
+849,2026-09-08,India,Paid Ads
+850,2026-05-20,UK,Paid Ads
+851,2026-07-18,UK,Paid Ads
+852,2026-08-02,Germany,Paid Ads
+853,2026-01-30,India,Paid Ads
+854,2026-08-14,Germany,Referral
+855,2026-05-16,India,Paid Ads
+856,2026-03-20,UK,Referral
+857,2026-09-29,India,Paid Ads
+858,2026-06-28,Germany,Referral
+859,2026-04-27,UK,Paid Ads
+860,2026-07-09,UK,Referral
+861,2026-09-02,India,Paid Ads
+862,2026-12-26,India,Referral
+863,2026-05-25,UK,Paid Ads
+864,2026-03-16,India,Paid Ads
+865,2026-12-18,Germany,Referral
+866,2026-06-13,UK,Paid Ads
+867,2026-12-10,UK,Organic
+868,2026-03-28,India,Referral
+869,2026-12-08,Germany,Organic
+870,2026-10-02,USA,Paid Ads
+871,2026-12-17,UK,Organic
+872,2026-08-02,Germany,Organic
+873,2026-05-20,India,Organic
+874,2026-03-17,USA,Organic
+875,2026-04-16,Germany,Paid Ads
+876,2026-08-15,UK,Paid Ads
+877,2026-04-17,UK,Organic
+878,2026-12-18,UK,Paid Ads
+879,2026-10-08,India,Paid Ads
+880,2026-08-25,UK,Organic
+881,2026-05-04,UK,Organic
+882,2026-02-08,Germany,Paid Ads
+883,2026-06-15,USA,Referral
+884,2026-11-23,Germany,Paid Ads
+885,2026-02-13,Germany,Referral
+886,2026-12-02,Germany,Referral
+887,2026-01-24,Germany,Referral
+888,2026-09-14,UK,Organic
+889,2026-09-10,India,Paid Ads
+890,2026-09-25,UK,Paid Ads
+891,2026-11-18,USA,Referral
+892,2026-02-27,Germany,Referral
+893,2026-11-12,Germany,Referral
+894,2026-01-24,Germany,Paid Ads
+895,2026-07-25,USA,Referral
+896,2026-02-10,India,Referral
+897,2026-04-01,USA,Paid Ads
+898,2026-04-29,USA,Referral
+899,2026-08-19,India,Referral
+900,2026-04-10,UK,Organic
+901,2026-10-03,India,Paid Ads
+902,2026-03-18,India,Organic
+903,2026-02-18,UK,Referral
+904,2026-07-20,India,Referral
+905,2026-02-11,India,Paid Ads
+906,2026-05-18,USA,Organic
+907,2026-03-30,USA,Organic
+908,2026-05-27,Germany,Organic
+909,2026-02-13,India,Paid Ads
+910,2026-04-26,UK,Referral
+911,2026-12-13,USA,Organic
+912,2026-06-02,India,Paid Ads
+913,2026-02-15,UK,Organic
+914,2026-10-03,Germany,Paid Ads
+915,2026-12-05,UK,Paid Ads
+916,2026-11-22,India,Paid Ads
+917,2026-04-29,Germany,Referral
+918,2026-04-21,USA,Paid Ads
+919,2026-11-06,UK,Paid Ads
+920,2026-03-27,India,Paid Ads
+921,2026-06-28,UK,Organic
+922,2026-12-03,Germany,Organic
+923,2026-06-25,USA,Paid Ads
+924,2026-12-16,India,Organic
+925,2026-02-05,USA,Organic
+926,2026-02-06,Germany,Referral
+927,2026-01-11,Germany,Organic
+928,2026-07-01,USA,Referral
+929,2026-02-10,UK,Referral
+930,2026-02-10,USA,Referral
+931,2026-03-22,UK,Organic
+932,2026-05-10,UK,Organic
+933,2026-02-12,USA,Organic
+934,2026-01-21,India,Referral
+935,2026-07-21,USA,Paid Ads
+936,2026-01-23,India,Referral
+937,2026-12-24,India,Paid Ads
+938,2026-08-19,Germany,Paid Ads
+939,2026-11-17,India,Referral
+940,2026-07-09,UK,Paid Ads
+941,2026-04-24,USA,Paid Ads
+942,2026-05-13,UK,Referral
+943,2026-01-27,UK,Referral
+944,2026-07-20,Germany,Paid Ads
+945,2026-12-03,Germany,Referral
+946,2026-02-05,India,Organic
+947,2026-04-27,Germany,Referral
+948,2026-09-24,India,Organic
+949,2026-06-02,USA,Referral
+950,2026-01-11,India,Organic
+951,2026-06-24,USA,Referral
+952,2026-09-16,Germany,Referral
+953,2026-05-01,Germany,Referral
+954,2026-05-03,USA,Organic
+955,2026-09-02,UK,Referral
+956,2026-05-06,UK,Paid Ads
+957,2026-02-19,India,Paid Ads
+958,2026-08-14,USA,Paid Ads
+959,2026-01-19,UK,Paid Ads
+960,2026-01-15,UK,Organic
+961,2026-11-26,Germany,Organic
+962,2026-02-04,India,Referral
+963,2026-10-16,India,Organic
+964,2026-08-11,UK,Referral
+965,2026-06-24,USA,Organic
+966,2026-05-31,Germany,Organic
+967,2026-04-15,India,Paid Ads
+968,2026-05-06,Germany,Referral
+969,2026-06-08,UK,Paid Ads
+970,2026-02-09,Germany,Referral
+971,2026-09-21,India,Organic
+972,2026-10-04,India,Paid Ads
+973,2026-10-26,India,Organic
+974,2026-03-26,UK,Paid Ads
+975,2026-02-16,USA,Organic
+976,2026-08-12,Germany,Paid Ads
+977,2026-12-10,Germany,Paid Ads
+978,2026-06-11,India,Referral
+979,2026-07-22,USA,Referral
+980,2026-04-13,UK,Organic
+981,2026-12-06,UK,Referral
+982,2026-01-01,India,Organic
+983,2026-03-17,Germany,Organic
+984,2026-12-27,Germany,Referral
+985,2026-02-03,UK,Paid Ads
+986,2026-10-16,UK,Organic
+987,2026-01-06,India,Referral
+988,2026-04-19,USA,Referral
+989,2026-08-28,UK,Organic
+990,2026-06-28,India,Referral
+991,2026-09-01,Germany,Organic
+992,2026-05-01,USA,Organic
+993,2026-07-20,UK,Paid Ads
+994,2026-08-28,Germany,Referral
+995,2026-02-12,India,Referral
+996,2026-07-27,UK,Paid Ads
+997,2026-07-09,USA,Paid Ads
+998,2026-11-20,USA,Referral
+999,2026-01-06,India,Paid Ads
+1000,2026-09-18,UK,Organic
+1001,2026-07-22,India,Organic
+1002,2026-04-07,UK,Organic
+1003,2026-05-18,India,Referral
+1004,2026-06-27,USA,Paid Ads
+1005,2026-05-20,Germany,Paid Ads
+1006,2026-04-04,UK,Paid Ads
+1007,2026-01-23,USA,Referral
+1008,2026-10-10,UK,Organic
+1009,2026-04-13,Germany,Referral
+1010,2026-12-24,India,Organic
+1011,2026-04-20,Germany,Paid Ads
+1012,2026-08-07,India,Referral
+1013,2026-10-27,Germany,Paid Ads
+1014,2026-07-09,UK,Referral
+1015,2026-10-25,Germany,Organic
+1016,2026-07-08,USA,Referral
+1017,2026-07-13,USA,Referral
+1018,2026-04-06,India,Referral
+1019,2026-12-30,USA,Organic
+1020,2026-05-20,UK,Referral
+1021,2026-12-24,USA,Paid Ads
+1022,2026-12-30,USA,Referral
+1023,2026-11-27,Germany,Organic
+1024,2026-11-24,USA,Paid Ads
+1025,2026-12-17,UK,Paid Ads
+1026,2026-06-07,India,Organic
+1027,2026-12-30,USA,Organic
+1028,2026-12-25,India,Paid Ads
+1029,2026-04-10,India,Paid Ads
+1030,2026-08-18,India,Referral
+1031,2026-07-30,UK,Paid Ads
+1032,2026-07-10,USA,Organic
+1033,2026-12-14,India,Organic
+1034,2026-05-05,UK,Referral
+1035,2026-02-03,USA,Organic
+1036,2026-12-31,USA,Referral
+1037,2026-03-13,USA,Referral
+1038,2026-04-06,Germany,Organic
+1039,2026-12-24,Germany,Referral
+1040,2026-08-24,Germany,Paid Ads
+1041,2026-01-17,Germany,Referral
+1042,2026-01-19,Germany,Organic
+1043,2026-07-08,India,Organic
+1044,2026-06-13,India,Referral
+1045,2026-08-07,USA,Paid Ads
+1046,2026-03-08,UK,Organic
+1047,2026-05-01,UK,Referral
+1048,2026-12-07,UK,Organic
+1049,2026-12-31,India,Referral
+1050,2026-05-16,UK,Paid Ads
+1051,2026-02-19,UK,Organic
+1052,2026-01-25,USA,Organic
+1053,2026-12-22,India,Referral
+1054,2026-05-06,UK,Referral
+1055,2026-06-09,UK,Organic
+1056,2026-06-18,India,Organic
+1057,2026-02-25,Germany,Organic
+1058,2026-02-03,India,Referral
+1059,2026-09-22,India,Paid Ads
+1060,2026-02-03,India,Organic
+1061,2026-10-05,USA,Organic
+1062,2026-09-20,India,Paid Ads
+1063,2026-01-06,USA,Referral
+1064,2026-04-23,UK,Paid Ads
+1065,2026-11-19,USA,Paid Ads
+1066,2026-08-01,Germany,Organic
+1067,2026-01-27,Germany,Organic
+1068,2026-08-03,USA,Organic
+1069,2026-09-30,USA,Paid Ads
+1070,2026-08-16,UK,Organic
+1071,2026-01-10,UK,Organic
+1072,2026-01-20,India,Referral
+1073,2026-01-14,India,Referral
+1074,2026-06-18,UK,Referral
+1075,2026-09-04,Germany,Referral
+1076,2026-05-13,Germany,Paid Ads
+1077,2026-05-17,India,Organic
+1078,2026-07-27,India,Referral
+1079,2026-11-19,India,Paid Ads
+1080,2026-03-08,UK,Organic
+1081,2026-01-24,India,Paid Ads
+1082,2026-04-01,India,Referral
+1083,2026-02-18,India,Organic
+1084,2026-09-04,India,Organic
+1085,2026-06-27,India,Referral
+1086,2026-11-01,Germany,Referral
+1087,2026-08-01,India,Organic
+1088,2026-11-22,India,Paid Ads
+1089,2026-07-27,Germany,Referral
+1090,2026-06-14,Germany,Referral
+1091,2026-06-14,UK,Organic
+1092,2026-04-26,UK,Organic
+1093,2026-11-13,USA,Referral
+1094,2026-01-29,Germany,Paid Ads
+1095,2026-05-26,USA,Paid Ads
+1096,2026-03-24,USA,Organic
+1097,2026-11-06,UK,Organic
+1098,2026-07-07,India,Paid Ads
+1099,2026-03-31,Germany,Paid Ads
+1100,2026-11-03,USA,Organic
+1101,2026-07-25,UK,Referral
+1102,2026-07-01,USA,Organic
+1103,2026-12-12,USA,Paid Ads
+1104,2026-06-24,Germany,Referral
+1105,2026-06-13,USA,Organic
+1106,2026-12-20,USA,Paid Ads
+1107,2026-04-28,UK,Organic
+1108,2026-06-30,UK,Referral
+1109,2026-05-16,USA,Referral
+1110,2026-07-30,Germany,Referral
+1111,2026-10-04,USA,Referral
+1112,2026-07-26,USA,Referral
+1113,2026-03-30,India,Referral
+1114,2026-09-20,Germany,Paid Ads
+1115,2026-08-08,Germany,Paid Ads
+1116,2026-06-11,USA,Paid Ads
+1117,2026-07-26,Germany,Organic
+1118,2026-04-20,USA,Paid Ads
+1119,2026-05-21,Germany,Paid Ads
+1120,2026-08-03,UK,Referral
+1121,2026-10-10,USA,Referral
+1122,2026-09-14,UK,Referral
+1123,2026-04-21,USA,Paid Ads
+1124,2026-11-26,Germany,Referral
+1125,2026-06-11,India,Organic
+1126,2026-12-15,UK,Organic
+1127,2026-09-10,UK,Referral
+1128,2026-10-01,UK,Organic
+1129,2026-09-17,Germany,Referral
+1130,2026-07-04,USA,Paid Ads
+1131,2026-04-16,USA,Referral
+1132,2026-11-25,Germany,Organic
+1133,2026-06-25,India,Organic
+1134,2026-09-06,UK,Paid Ads
+1135,2026-04-21,Germany,Organic
+1136,2026-05-06,UK,Organic
+1137,2026-12-16,Germany,Referral
+1138,2026-07-12,Germany,Referral
+1139,2026-02-10,India,Referral
+1140,2026-06-04,India,Paid Ads
+1141,2026-04-02,UK,Paid Ads
+1142,2026-09-06,USA,Organic
+1143,2026-02-07,USA,Organic
+1144,2026-06-07,USA,Referral
+1145,2026-11-08,India,Paid Ads
+1146,2026-08-26,USA,Referral
+1147,2026-10-29,Germany,Paid Ads
+1148,2026-11-06,Germany,Referral
+1149,2026-09-22,India,Organic
+1150,2026-02-13,USA,Paid Ads
+1151,2026-09-25,USA,Organic
+1152,2026-09-07,USA,Referral
+1153,2026-07-16,Germany,Organic
+1154,2026-11-14,Germany,Referral
+1155,2026-08-22,India,Paid Ads
+1156,2026-09-26,India,Referral
+1157,2026-02-07,India,Organic
+1158,2026-05-16,India,Paid Ads
+1159,2026-04-25,UK,Referral
+1160,2026-10-28,India,Referral
+1161,2026-09-07,India,Paid Ads
+1162,2026-11-15,India,Organic
+1163,2026-03-10,India,Referral
+1164,2026-02-05,USA,Organic
+1165,2026-02-24,USA,Organic
+1166,2026-03-28,Germany,Referral
+1167,2026-09-15,USA,Referral
+1168,2026-03-03,UK,Paid Ads
+1169,2026-08-19,Germany,Referral
+1170,2026-10-28,Germany,Organic
+1171,2026-11-29,USA,Organic
+1172,2026-02-07,UK,Organic
+1173,2026-04-04,India,Paid Ads
+1174,2026-04-25,India,Organic
+1175,2026-10-31,UK,Organic
+1176,2026-07-15,USA,Organic
+1177,2026-03-30,UK,Organic
+1178,2026-12-25,Germany,Referral
+1179,2026-03-09,Germany,Referral
+1180,2026-03-06,UK,Paid Ads
+1181,2026-07-07,UK,Organic
+1182,2026-09-21,Germany,Paid Ads
+1183,2026-12-14,India,Organic
+1184,2026-06-12,India,Organic
+1185,2026-09-28,UK,Referral
+1186,2026-11-12,India,Paid Ads
+1187,2026-02-18,UK,Organic
+1188,2026-05-21,USA,Organic
+1189,2026-07-20,USA,Referral
+1190,2026-03-31,Germany,Organic
+1191,2026-07-25,India,Referral
+1192,2026-01-16,India,Organic
+1193,2026-03-25,India,Paid Ads
+1194,2026-09-14,India,Referral
+1195,2026-03-11,India,Organic
+1196,2026-12-17,USA,Organic
+1197,2026-12-21,Germany,Organic
+1198,2026-08-20,USA,Organic
+1199,2026-04-13,Germany,Referral
+1200,2026-06-24,USA,Organic
+1201,2026-08-03,UK,Organic
+1202,2026-06-02,India,Referral
+1203,2026-11-14,Germany,Paid Ads
+1204,2026-11-29,Germany,Organic
+1205,2026-05-12,Germany,Organic
+1206,2026-12-18,India,Paid Ads
+1207,2026-04-29,UK,Referral
+1208,2026-05-16,Germany,Referral
+1209,2026-06-17,India,Organic
+1210,2026-09-25,UK,Organic
+1211,2026-12-09,UK,Referral
+1212,2026-05-03,USA,Paid Ads
+1213,2026-10-22,India,Paid Ads
+1214,2026-03-12,Germany,Organic
+1215,2026-12-20,USA,Organic
+1216,2026-12-23,UK,Paid Ads
+1217,2026-07-29,India,Organic
+1218,2026-01-29,Germany,Paid Ads
+1219,2026-09-04,USA,Paid Ads
+1220,2026-11-09,India,Organic
+1221,2026-10-06,India,Paid Ads
+1222,2026-03-01,USA,Organic
+1223,2026-11-08,USA,Paid Ads
+1224,2026-07-10,USA,Paid Ads
+1225,2026-11-20,India,Paid Ads
+1226,2026-05-02,UK,Referral
+1227,2026-12-22,India,Referral
+1228,2026-08-05,USA,Organic
+1229,2026-08-22,Germany,Organic
+1230,2026-02-02,UK,Paid Ads
+1231,2026-03-11,USA,Referral
+1232,2026-02-10,UK,Referral
+1233,2026-03-08,Germany,Organic
+1234,2026-03-18,India,Paid Ads
+1235,2026-07-25,UK,Organic
+1236,2026-06-05,USA,Paid Ads
+1237,2026-04-04,USA,Organic
+1238,2026-03-07,USA,Referral
+1239,2026-12-01,UK,Paid Ads
+1240,2026-12-20,Germany,Paid Ads
+1241,2026-07-01,Germany,Paid Ads
+1242,2026-05-04,USA,Paid Ads
+1243,2026-02-12,Germany,Paid Ads
+1244,2026-09-06,USA,Referral
+1245,2026-06-16,UK,Organic
+1246,2026-08-25,USA,Referral
+1247,2026-10-25,USA,Paid Ads
+1248,2026-05-04,Germany,Organic
+1249,2026-12-23,UK,Organic
+1250,2026-06-24,India,Paid Ads
+1251,2026-11-23,UK,Paid Ads
+1252,2026-01-11,USA,Paid Ads
+1253,2026-11-16,UK,Referral
+1254,2026-03-22,UK,Paid Ads
+1255,2026-08-15,Germany,Organic
+1256,2026-11-03,UK,Paid Ads
+1257,2026-10-05,Germany,Organic
+1258,2026-07-26,UK,Paid Ads
+1259,2026-10-08,Germany,Referral
+1260,2026-10-28,Germany,Paid Ads
+1261,2026-03-24,India,Organic
+1262,2026-11-24,UK,Organic
+1263,2026-06-23,Germany,Organic
+1264,2026-11-14,USA,Organic
+1265,2026-08-03,UK,Referral
+1266,2026-07-02,UK,Referral
+1267,2026-06-02,Germany,Organic
+1268,2026-07-10,USA,Paid Ads
+1269,2026-09-23,India,Referral
+1270,2026-11-20,India,Organic
+1271,2026-05-31,India,Paid Ads
+1272,2026-04-03,India,Organic
+1273,2026-03-02,Germany,Organic
+1274,2026-12-21,India,Organic
+1275,2026-08-26,Germany,Referral
+1276,2026-01-05,Germany,Organic
+1277,2026-04-24,India,Organic
+1278,2026-05-19,UK,Paid Ads
+1279,2026-05-16,UK,Referral
+1280,2026-05-07,India,Organic
+1281,2026-04-26,Germany,Referral
+1282,2026-02-16,UK,Paid Ads
+1283,2026-09-25,UK,Referral
+1284,2026-03-25,India,Paid Ads
+1285,2026-07-15,Germany,Paid Ads
+1286,2026-11-09,Germany,Organic
+1287,2026-06-16,UK,Referral
+1288,2026-07-04,India,Paid Ads
+1289,2026-09-02,Germany,Organic
+1290,2026-12-22,Germany,Referral
+1291,2026-10-31,Germany,Organic
+1292,2026-04-15,UK,Paid Ads
+1293,2026-05-25,UK,Organic
+1294,2026-04-08,USA,Organic
+1295,2026-12-05,UK,Paid Ads
+1296,2026-01-17,USA,Referral
+1297,2026-08-15,Germany,Referral
+1298,2026-11-30,USA,Referral
+1299,2026-01-10,UK,Referral
+1300,2026-04-13,Germany,Organic
+1301,2026-03-07,USA,Referral
+1302,2026-04-01,USA,Organic
+1303,2026-08-16,Germany,Organic
+1304,2026-03-18,India,Referral
+1305,2026-06-18,India,Referral
+1306,2026-06-07,Germany,Paid Ads
+1307,2026-06-08,UK,Paid Ads
+1308,2026-02-09,USA,Paid Ads
+1309,2026-05-15,USA,Referral
+1310,2026-07-07,India,Referral
+1311,2026-09-29,USA,Referral
+1312,2026-05-02,Germany,Referral
+1313,2026-03-22,UK,Organic
+1314,2026-12-02,Germany,Paid Ads
+1315,2026-07-27,UK,Referral
+1316,2026-08-07,UK,Paid Ads
+1317,2026-11-10,Germany,Referral
+1318,2026-06-30,Germany,Paid Ads
+1319,2026-03-17,India,Organic
+1320,2026-01-06,Germany,Referral
+1321,2026-03-23,USA,Organic
+1322,2026-08-04,Germany,Referral
+1323,2026-04-12,India,Organic
+1324,2026-03-11,Germany,Paid Ads
+1325,2026-12-09,India,Paid Ads
+1326,2026-01-03,USA,Paid Ads
+1327,2026-03-24,India,Referral
+1328,2026-03-22,India,Referral
+1329,2026-06-28,Germany,Referral
+1330,2026-06-24,USA,Paid Ads
+1331,2026-08-29,Germany,Paid Ads
+1332,2026-10-20,India,Organic
+1333,2026-06-05,India,Organic
+1334,2026-07-03,Germany,Paid Ads
+1335,2026-07-01,India,Paid Ads
+1336,2026-11-22,Germany,Paid Ads
+1337,2026-01-06,UK,Referral
+1338,2026-11-18,UK,Paid Ads
+1339,2026-09-03,India,Referral
+1340,2026-02-01,Germany,Referral
+1341,2026-02-27,India,Organic
+1342,2026-08-09,UK,Referral
+1343,2026-10-07,USA,Organic
+1344,2026-09-16,UK,Paid Ads
+1345,2026-01-08,UK,Organic
+1346,2026-10-26,India,Referral
+1347,2026-08-19,India,Organic
+1348,2026-01-11,UK,Paid Ads
+1349,2026-03-03,Germany,Paid Ads
+1350,2026-11-25,UK,Paid Ads
+1351,2026-02-06,India,Referral
+1352,2026-02-17,Germany,Organic
+1353,2026-04-16,UK,Organic
+1354,2026-06-13,UK,Paid Ads
+1355,2026-09-11,India,Referral
+1356,2026-07-31,USA,Organic
+1357,2026-09-05,UK,Organic
+1358,2026-09-05,USA,Referral
+1359,2026-05-15,Germany,Paid Ads
+1360,2026-01-20,Germany,Referral
+1361,2026-03-09,India,Paid Ads
+1362,2026-11-16,India,Referral
+1363,2026-04-13,India,Organic
+1364,2026-02-23,India,Paid Ads
+1365,2026-04-14,Germany,Organic
+1366,2026-07-13,UK,Paid Ads
+1367,2026-01-18,India,Organic
+1368,2026-01-22,India,Organic
+1369,2026-06-24,Germany,Paid Ads
+1370,2026-02-27,UK,Referral
+1371,2026-04-10,UK,Organic
+1372,2026-01-12,USA,Organic
+1373,2026-02-25,UK,Organic
+1374,2026-08-08,Germany,Paid Ads
+1375,2026-07-28,Germany,Paid Ads
+1376,2026-05-11,UK,Paid Ads
+1377,2026-11-04,India,Paid Ads
+1378,2026-04-06,UK,Paid Ads
+1379,2026-11-09,UK,Paid Ads
+1380,2026-02-22,UK,Paid Ads
+1381,2026-07-03,Germany,Paid Ads
+1382,2026-10-31,USA,Organic
+1383,2026-05-27,USA,Organic
+1384,2026-05-31,Germany,Organic
+1385,2026-06-05,USA,Paid Ads
+1386,2026-06-21,USA,Organic
+1387,2026-06-27,UK,Referral
+1388,2026-08-22,UK,Referral
+1389,2026-04-13,UK,Paid Ads
+1390,2026-04-02,India,Paid Ads
+1391,2026-08-03,UK,Referral
+1392,2026-04-29,India,Referral
+1393,2026-08-20,Germany,Paid Ads
+1394,2026-09-02,USA,Referral
+1395,2026-04-27,USA,Paid Ads
+1396,2026-03-28,Germany,Referral
+1397,2026-11-30,UK,Paid Ads
+1398,2026-09-16,India,Organic
+1399,2026-04-22,Germany,Referral
+1400,2026-11-10,UK,Referral
+1401,2026-01-29,Germany,Paid Ads
+1402,2026-04-19,USA,Paid Ads
+1403,2026-09-07,UK,Referral
+1404,2026-05-15,India,Organic
+1405,2026-09-15,Germany,Paid Ads
+1406,2026-07-27,Germany,Paid Ads
+1407,2026-03-15,USA,Paid Ads
+1408,2026-04-23,USA,Paid Ads
+1409,2026-06-29,USA,Paid Ads
+1410,2026-06-08,India,Organic
+1411,2026-05-01,India,Organic
+1412,2026-07-30,UK,Referral
+1413,2026-04-09,Germany,Paid Ads
+1414,2026-05-09,UK,Referral
+1415,2026-07-16,UK,Referral
+1416,2026-04-01,USA,Referral
+1417,2026-01-27,USA,Organic
+1418,2026-09-10,Germany,Referral
+1419,2026-07-25,USA,Referral
+1420,2026-01-02,UK,Referral
+1421,2026-06-17,USA,Paid Ads
+1422,2026-03-08,UK,Organic
+1423,2026-10-03,UK,Organic
+1424,2026-02-28,USA,Paid Ads
+1425,2026-08-08,Germany,Organic
+1426,2026-07-18,India,Organic
+1427,2026-12-09,USA,Organic
+1428,2026-04-25,USA,Paid Ads
+1429,2026-02-08,Germany,Paid Ads
+1430,2026-03-25,Germany,Paid Ads
+1431,2026-04-29,Germany,Paid Ads
+1432,2026-12-02,USA,Paid Ads
+1433,2026-07-01,USA,Organic
+1434,2026-01-20,USA,Paid Ads
+1435,2026-06-27,UK,Organic
+1436,2026-11-02,USA,Organic
+1437,2026-07-30,USA,Organic
+1438,2026-10-23,Germany,Paid Ads
+1439,2026-09-29,India,Referral
+1440,2026-03-01,Germany,Referral
+1441,2026-11-30,UK,Referral
+1442,2026-06-09,USA,Paid Ads
+1443,2026-04-16,Germany,Paid Ads
+1444,2026-12-31,Germany,Paid Ads
+1445,2026-08-05,USA,Referral
+1446,2026-02-22,Germany,Referral
+1447,2026-08-29,India,Referral
+1448,2026-06-02,India,Organic
+1449,2026-05-12,India,Organic
+1450,2026-09-15,Germany,Paid Ads
+1451,2026-08-11,India,Organic
+1452,2026-11-18,UK,Paid Ads
+1453,2026-08-09,Germany,Paid Ads
+1454,2026-06-12,USA,Organic
+1455,2026-11-24,UK,Paid Ads
+1456,2026-02-03,USA,Paid Ads
+1457,2026-11-11,Germany,Referral
+1458,2026-11-15,India,Organic
+1459,2026-02-26,UK,Referral
+1460,2026-01-10,India,Paid Ads
+1461,2026-09-16,UK,Paid Ads
+1462,2026-07-28,Germany,Organic
+1463,2026-08-07,USA,Referral
+1464,2026-04-11,Germany,Referral
+1465,2026-05-17,Germany,Referral
+1466,2026-05-02,USA,Organic
+1467,2026-08-24,Germany,Organic
+1468,2026-06-06,USA,Paid Ads
+1469,2026-08-05,USA,Organic
+1470,2026-11-24,India,Referral
+1471,2026-04-17,UK,Organic
+1472,2026-01-05,Germany,Referral
+1473,2026-08-30,USA,Organic
+1474,2026-04-30,Germany,Referral
+1475,2026-10-31,USA,Paid Ads
+1476,2026-10-12,India,Paid Ads
+1477,2026-01-10,UK,Paid Ads
+1478,2026-09-24,India,Paid Ads
+1479,2026-04-27,India,Organic
+1480,2026-09-01,India,Paid Ads
+1481,2026-06-08,Germany,Paid Ads
+1482,2026-09-10,Germany,Paid Ads
+1483,2026-10-04,UK,Referral
+1484,2026-03-17,USA,Organic
+1485,2026-08-19,Germany,Referral
+1486,2026-07-30,USA,Organic
+1487,2026-12-17,USA,Referral
+1488,2026-07-09,USA,Paid Ads
+1489,2026-06-14,India,Organic
+1490,2026-12-29,USA,Organic
+1491,2026-08-22,India,Organic
+1492,2026-05-09,Germany,Organic
+1493,2026-12-17,UK,Organic
+1494,2026-04-28,USA,Paid Ads
+1495,2026-08-09,USA,Referral
+1496,2026-05-13,Germany,Referral
+1497,2026-08-13,UK,Referral
+1498,2026-12-29,UK,Referral
+1499,2026-09-26,USA,Paid Ads
+1500,2026-06-03,India,Paid Ads
+1501,2026-12-03,India,Organic
+1502,2026-04-30,India,Organic
+1503,2026-06-30,Germany,Organic
+1504,2026-04-30,India,Referral
+1505,2026-08-08,India,Organic
+1506,2026-08-12,India,Paid Ads
+1507,2026-05-04,Germany,Referral
+1508,2026-07-19,Germany,Paid Ads
+1509,2026-01-07,USA,Paid Ads
+1510,2026-11-30,UK,Paid Ads
+1511,2026-01-25,Germany,Paid Ads
+1512,2026-08-05,USA,Referral
+1513,2026-08-07,UK,Referral
+1514,2026-07-19,USA,Organic
+1515,2026-12-28,Germany,Paid Ads
+1516,2026-04-20,Germany,Paid Ads
+1517,2026-02-03,UK,Organic
+1518,2026-04-21,Germany,Paid Ads
+1519,2026-06-26,Germany,Paid Ads
+1520,2026-11-14,India,Paid Ads
+1521,2026-04-20,USA,Referral
+1522,2026-01-31,Germany,Referral
+1523,2026-11-07,UK,Referral
+1524,2026-03-10,UK,Paid Ads
+1525,2026-01-11,Germany,Referral
+1526,2026-08-24,Germany,Paid Ads
+1527,2026-04-18,Germany,Referral
+1528,2026-01-11,Germany,Referral
+1529,2026-07-31,UK,Referral
+1530,2026-06-01,India,Referral
+1531,2026-12-12,India,Organic
+1532,2026-12-29,India,Paid Ads
+1533,2026-05-25,UK,Paid Ads
+1534,2026-11-25,Germany,Referral
+1535,2026-01-30,India,Referral
+1536,2026-12-05,Germany,Organic
+1537,2026-09-18,USA,Referral
+1538,2026-07-19,Germany,Paid Ads
+1539,2026-04-10,India,Organic
+1540,2026-06-10,India,Paid Ads
+1541,2026-10-20,Germany,Organic
+1542,2026-05-30,USA,Paid Ads
+1543,2026-10-08,USA,Referral
+1544,2026-07-29,UK,Paid Ads
+1545,2026-09-02,USA,Organic
+1546,2026-09-04,UK,Paid Ads
+1547,2026-10-12,Germany,Paid Ads
+1548,2026-12-16,USA,Referral
+1549,2026-10-27,UK,Organic
+1550,2026-04-17,India,Organic
+1551,2026-11-08,USA,Organic
+1552,2026-01-11,Germany,Organic
+1553,2026-03-13,Germany,Paid Ads
+1554,2026-11-01,UK,Referral
+1555,2026-03-08,UK,Referral
+1556,2026-02-17,USA,Organic
+1557,2026-03-05,UK,Paid Ads
+1558,2026-03-12,India,Organic
+1559,2026-04-29,Germany,Paid Ads
+1560,2026-07-17,India,Referral
+1561,2026-11-10,USA,Referral
+1562,2026-01-28,UK,Paid Ads
+1563,2026-01-16,USA,Organic
+1564,2026-09-17,USA,Organic
+1565,2026-11-28,Germany,Organic
+1566,2026-09-09,India,Paid Ads
+1567,2026-04-14,USA,Paid Ads
+1568,2026-06-17,India,Organic
+1569,2026-07-29,India,Referral
+1570,2026-06-13,USA,Organic
+1571,2026-01-02,India,Paid Ads
+1572,2026-08-05,India,Organic
+1573,2026-10-24,USA,Paid Ads
+1574,2026-08-25,UK,Organic
+1575,2026-01-15,USA,Referral
+1576,2026-08-20,USA,Referral
+1577,2026-07-01,India,Referral
+1578,2026-08-24,USA,Organic
+1579,2026-05-16,UK,Organic
+1580,2026-07-23,Germany,Organic
+1581,2026-05-06,UK,Referral
+1582,2026-06-07,USA,Referral
+1583,2026-06-28,USA,Referral
+1584,2026-12-01,UK,Paid Ads
+1585,2026-08-05,Germany,Paid Ads
+1586,2026-05-26,Germany,Organic
+1587,2026-12-17,India,Referral
+1588,2026-08-18,India,Paid Ads
+1589,2026-06-28,India,Referral
+1590,2026-11-29,India,Paid Ads
+1591,2026-12-24,USA,Referral
+1592,2026-01-30,UK,Paid Ads
+1593,2026-10-20,India,Organic
+1594,2026-04-23,UK,Organic
+1595,2026-09-16,USA,Referral
+1596,2026-09-30,India,Paid Ads
+1597,2026-11-17,Germany,Referral
+1598,2026-09-26,India,Paid Ads
+1599,2026-03-06,UK,Referral
+1600,2026-07-21,USA,Referral
+1601,2026-10-12,USA,Organic
+1602,2026-11-22,USA,Referral
+1603,2026-11-28,UK,Referral
+1604,2026-08-22,UK,Organic
+1605,2026-09-20,UK,Paid Ads
+1606,2026-12-29,Germany,Referral
+1607,2026-02-12,USA,Referral
+1608,2026-09-12,UK,Paid Ads
+1609,2026-12-02,Germany,Organic
+1610,2026-05-23,Germany,Paid Ads
+1611,2026-01-22,India,Referral
+1612,2026-12-08,USA,Referral
+1613,2026-03-02,UK,Organic
+1614,2026-05-06,USA,Paid Ads
+1615,2026-12-25,Germany,Paid Ads
+1616,2026-03-23,India,Organic
+1617,2026-07-06,USA,Paid Ads
+1618,2026-11-20,India,Referral
+1619,2026-07-08,India,Paid Ads
+1620,2026-08-24,USA,Paid Ads
+1621,2026-11-24,India,Paid Ads
+1622,2026-04-20,USA,Referral
+1623,2026-05-18,India,Organic
+1624,2026-01-08,USA,Referral
+1625,2026-06-29,UK,Organic
+1626,2026-08-13,India,Referral
+1627,2026-02-17,USA,Paid Ads
+1628,2026-10-25,Germany,Referral
+1629,2026-09-05,Germany,Organic
+1630,2026-04-26,UK,Paid Ads
+1631,2026-03-23,UK,Organic
+1632,2026-02-09,India,Paid Ads
+1633,2026-09-04,UK,Paid Ads
+1634,2026-06-10,Germany,Organic
+1635,2026-03-04,Germany,Paid Ads
+1636,2026-09-23,UK,Paid Ads
+1637,2026-02-23,UK,Paid Ads
+1638,2026-06-12,USA,Organic
+1639,2026-02-05,USA,Referral
+1640,2026-08-02,Germany,Paid Ads
+1641,2026-10-17,India,Referral
+1642,2026-03-21,UK,Paid Ads
+1643,2026-04-23,UK,Organic
+1644,2026-03-10,USA,Paid Ads
+1645,2026-06-16,India,Paid Ads
+1646,2026-11-16,Germany,Organic
+1647,2026-04-23,Germany,Organic
+1648,2026-08-07,Germany,Organic
+1649,2026-11-21,USA,Paid Ads
+1650,2026-07-21,UK,Organic
+1651,2026-02-14,USA,Referral
+1652,2026-07-11,UK,Paid Ads
+1653,2026-02-13,India,Organic
+1654,2026-11-03,UK,Organic
+1655,2026-12-28,UK,Paid Ads
+1656,2026-07-04,USA,Referral
+1657,2026-12-08,India,Organic
+1658,2026-11-24,USA,Referral
+1659,2026-01-31,Germany,Organic
+1660,2026-05-29,Germany,Organic
+1661,2026-12-12,UK,Paid Ads
+1662,2026-10-08,UK,Organic
+1663,2026-06-08,USA,Referral
+1664,2026-09-02,India,Referral
+1665,2026-10-18,USA,Referral
+1666,2026-01-17,USA,Organic
+1667,2026-05-18,USA,Organic
+1668,2026-01-05,UK,Paid Ads
+1669,2026-04-12,UK,Paid Ads
+1670,2026-09-24,UK,Referral
+1671,2026-05-04,USA,Referral
+1672,2026-11-19,Germany,Organic
+1673,2026-03-09,India,Organic
+1674,2026-07-04,Germany,Paid Ads
+1675,2026-05-13,India,Referral
+1676,2026-03-11,India,Organic
+1677,2026-06-06,Germany,Organic
+1678,2026-07-06,USA,Paid Ads
+1679,2026-09-23,India,Referral
+1680,2026-03-22,Germany,Paid Ads
+1681,2026-11-25,India,Organic
+1682,2026-12-19,India,Organic
+1683,2026-09-16,UK,Referral
+1684,2026-02-04,Germany,Organic
+1685,2026-04-19,India,Paid Ads
+1686,2026-03-17,Germany,Organic
+1687,2026-05-09,USA,Organic
+1688,2026-11-05,Germany,Organic
+1689,2026-01-27,Germany,Paid Ads
+1690,2026-01-19,India,Organic
+1691,2026-09-07,UK,Paid Ads
+1692,2026-05-16,USA,Referral
+1693,2026-01-11,USA,Paid Ads
+1694,2026-08-08,Germany,Paid Ads
+1695,2026-09-28,Germany,Referral
+1696,2026-04-15,USA,Paid Ads
+1697,2026-10-01,India,Paid Ads
+1698,2026-02-19,Germany,Referral
+1699,2026-08-24,UK,Organic
+1700,2026-07-05,UK,Paid Ads
+1701,2026-03-07,Germany,Referral
+1702,2026-07-02,USA,Organic
+1703,2026-03-23,Germany,Paid Ads
+1704,2026-11-30,Germany,Referral
+1705,2026-02-05,Germany,Organic
+1706,2026-03-06,Germany,Paid Ads
+1707,2026-01-05,India,Referral
+1708,2026-01-24,India,Organic
+1709,2026-09-20,UK,Referral
+1710,2026-04-20,Germany,Paid Ads
+1711,2026-12-30,USA,Organic
+1712,2026-07-02,Germany,Referral
+1713,2026-06-23,India,Paid Ads
+1714,2026-01-19,Germany,Paid Ads
+1715,2026-08-20,India,Paid Ads
+1716,2026-03-14,Germany,Organic
+1717,2026-11-09,Germany,Referral
+1718,2026-12-11,India,Paid Ads
+1719,2026-02-08,Germany,Organic
+1720,2026-07-15,Germany,Referral
+1721,2026-07-20,India,Organic
+1722,2026-11-17,India,Paid Ads
+1723,2026-05-28,USA,Paid Ads
+1724,2026-07-05,USA,Organic
+1725,2026-10-08,India,Referral
+1726,2026-02-27,USA,Organic
+1727,2026-12-20,Germany,Paid Ads
+1728,2026-07-27,India,Organic
+1729,2026-02-15,India,Paid Ads
+1730,2026-04-14,USA,Paid Ads
+1731,2026-03-19,USA,Paid Ads
+1732,2026-10-31,UK,Organic
+1733,2026-03-12,USA,Referral
+1734,2026-11-10,USA,Referral
+1735,2026-12-16,UK,Referral
+1736,2026-07-16,India,Referral
+1737,2026-12-14,USA,Organic
+1738,2026-12-06,UK,Referral
+1739,2026-05-14,UK,Referral
+1740,2026-10-29,UK,Paid Ads
+1741,2026-04-13,USA,Paid Ads
+1742,2026-03-30,USA,Referral
+1743,2026-11-18,UK,Paid Ads
+1744,2026-10-22,India,Paid Ads
+1745,2026-07-26,Germany,Organic
+1746,2026-12-01,India,Referral
+1747,2026-12-11,UK,Referral
+1748,2026-07-30,UK,Paid Ads
+1749,2026-07-05,UK,Organic
+1750,2026-04-06,Germany,Referral
+1751,2026-11-20,India,Referral
+1752,2026-08-10,Germany,Organic
+1753,2026-05-05,USA,Referral
+1754,2026-05-29,UK,Organic
+1755,2026-12-07,USA,Paid Ads
+1756,2026-09-11,UK,Paid Ads
+1757,2026-04-03,USA,Organic
+1758,2026-11-10,Germany,Organic
+1759,2026-12-24,USA,Organic
+1760,2026-04-20,India,Organic
+1761,2026-03-05,Germany,Referral
+1762,2026-01-14,India,Organic
+1763,2026-04-28,USA,Paid Ads
+1764,2026-02-17,India,Organic
+1765,2026-01-08,India,Paid Ads
+1766,2026-02-15,USA,Paid Ads
+1767,2026-11-02,UK,Referral
+1768,2026-05-14,USA,Paid Ads
+1769,2026-09-04,USA,Paid Ads
+1770,2026-07-27,USA,Organic
+1771,2026-10-08,USA,Paid Ads
+1772,2026-05-07,Germany,Referral
+1773,2026-12-20,India,Organic
+1774,2026-05-17,Germany,Referral
+1775,2026-02-01,India,Paid Ads
+1776,2026-12-06,Germany,Referral
+1777,2026-09-21,Germany,Referral
+1778,2026-07-10,UK,Paid Ads
+1779,2026-08-24,India,Organic
+1780,2026-07-30,India,Paid Ads
+1781,2026-07-07,India,Organic
+1782,2026-03-20,USA,Paid Ads
+1783,2026-06-06,Germany,Organic
+1784,2026-02-17,India,Referral
+1785,2026-12-02,USA,Organic
+1786,2026-08-05,USA,Organic
+1787,2026-03-05,Germany,Paid Ads
+1788,2026-01-26,India,Paid Ads
+1789,2026-05-24,India,Organic
+1790,2026-07-20,Germany,Paid Ads
+1791,2026-08-21,Germany,Paid Ads
+1792,2026-03-08,Germany,Referral
+1793,2026-01-19,USA,Paid Ads
+1794,2026-02-28,India,Organic
+1795,2026-12-23,Germany,Paid Ads
+1796,2026-02-25,India,Paid Ads
+1797,2026-01-07,Germany,Paid Ads
+1798,2026-06-05,Germany,Referral
+1799,2026-07-16,USA,Referral
+1800,2026-05-14,USA,Paid Ads
+1801,2026-11-16,Germany,Organic
+1802,2026-12-26,India,Paid Ads
+1803,2026-02-13,USA,Paid Ads
+1804,2026-12-03,USA,Organic
+1805,2026-11-22,USA,Referral
+1806,2026-06-22,Germany,Referral
+1807,2026-11-17,Germany,Referral
+1808,2026-11-16,UK,Referral
+1809,2026-08-16,India,Referral
+1810,2026-08-30,India,Referral
+1811,2026-07-28,UK,Referral
+1812,2026-08-12,UK,Referral
+1813,2026-11-05,India,Referral
+1814,2026-02-07,UK,Organic
+1815,2026-10-08,India,Referral
+1816,2026-10-07,UK,Organic
+1817,2026-11-12,USA,Organic
+1818,2026-04-08,USA,Paid Ads
+1819,2026-06-28,Germany,Organic
+1820,2026-08-31,USA,Organic
+1821,2026-08-18,USA,Organic
+1822,2026-09-06,India,Organic
+1823,2026-01-31,Germany,Referral
+1824,2026-10-22,Germany,Organic
+1825,2026-10-30,UK,Organic
+1826,2026-06-23,India,Organic
+1827,2026-11-03,USA,Referral
+1828,2026-08-08,UK,Referral
+1829,2026-03-08,UK,Organic
+1830,2026-07-04,India,Referral
+1831,2026-12-22,USA,Paid Ads
+1832,2026-12-18,India,Organic
+1833,2026-08-26,USA,Organic
+1834,2026-11-06,UK,Referral
+1835,2026-03-24,India,Referral
+1836,2026-12-16,UK,Paid Ads
+1837,2026-02-15,USA,Referral
+1838,2026-08-11,UK,Paid Ads
+1839,2026-02-22,India,Paid Ads
+1840,2026-08-09,Germany,Referral
+1841,2026-12-26,India,Organic
+1842,2026-07-31,USA,Paid Ads
+1843,2026-10-16,UK,Referral
+1844,2026-02-16,UK,Paid Ads
+1845,2026-05-28,India,Organic
+1846,2026-09-06,USA,Paid Ads
+1847,2026-04-29,Germany,Organic
+1848,2026-03-31,USA,Paid Ads
+1849,2026-08-21,UK,Referral
+1850,2026-02-25,Germany,Paid Ads
+1851,2026-12-13,India,Paid Ads
+1852,2026-01-30,India,Organic
+1853,2026-12-14,India,Organic
+1854,2026-02-14,India,Referral
+1855,2026-07-01,UK,Referral
+1856,2026-05-11,India,Paid Ads
+1857,2026-07-15,Germany,Referral
+1858,2026-08-22,UK,Referral
+1859,2026-03-06,UK,Referral
+1860,2026-08-09,Germany,Referral
+1861,2026-04-08,Germany,Referral
+1862,2026-07-15,USA,Referral
+1863,2026-06-04,Germany,Paid Ads
+1864,2026-12-10,Germany,Organic
+1865,2026-12-10,Germany,Organic
+1866,2026-04-23,Germany,Organic
+1867,2026-11-30,UK,Paid Ads
+1868,2026-12-22,UK,Referral
+1869,2026-04-05,India,Referral
+1870,2026-11-20,Germany,Organic
+1871,2026-10-03,USA,Organic
+1872,2026-06-15,India,Organic
+1873,2026-01-25,Germany,Paid Ads
+1874,2026-10-07,Germany,Paid Ads
+1875,2026-09-02,USA,Referral
+1876,2026-01-13,USA,Referral
+1877,2026-05-13,UK,Paid Ads
+1878,2026-02-01,Germany,Organic
+1879,2026-01-17,USA,Paid Ads
+1880,2026-07-19,USA,Organic
+1881,2026-04-09,India,Paid Ads
+1882,2026-01-01,Germany,Referral
+1883,2026-02-01,Germany,Organic
+1884,2026-01-04,Germany,Referral
+1885,2026-01-13,Germany,Referral
+1886,2026-02-23,Germany,Paid Ads
+1887,2026-06-07,USA,Referral
+1888,2026-05-29,India,Referral
+1889,2026-09-28,India,Paid Ads
+1890,2026-06-04,Germany,Referral
+1891,2026-07-18,UK,Paid Ads
+1892,2026-05-27,Germany,Organic
+1893,2026-01-29,Germany,Paid Ads
+1894,2026-12-05,UK,Referral
+1895,2026-10-22,Germany,Paid Ads
+1896,2026-02-28,USA,Organic
+1897,2026-05-25,Germany,Referral
+1898,2026-11-08,USA,Referral
+1899,2026-04-30,USA,Referral
+1900,2026-08-05,India,Referral
+1901,2026-12-14,Germany,Referral
+1902,2026-07-04,UK,Referral
+1903,2026-02-25,India,Organic
+1904,2026-07-24,India,Organic
+1905,2026-10-29,USA,Referral
+1906,2026-03-03,UK,Organic
+1907,2026-01-17,Germany,Referral
+1908,2026-06-11,USA,Referral
+1909,2026-06-23,Germany,Organic
+1910,2026-01-22,Germany,Organic
+1911,2026-07-12,USA,Paid Ads
+1912,2026-08-09,Germany,Referral
+1913,2026-04-24,USA,Organic
+1914,2026-02-12,USA,Paid Ads
+1915,2026-06-17,USA,Organic
+1916,2026-07-03,UK,Organic
+1917,2026-08-14,UK,Organic
+1918,2026-09-10,India,Organic
+1919,2026-09-15,USA,Organic
+1920,2026-07-17,USA,Organic
+1921,2026-03-01,USA,Paid Ads
+1922,2026-02-05,Germany,Organic
+1923,2026-05-26,Germany,Paid Ads
+1924,2026-02-07,USA,Organic
+1925,2026-08-26,USA,Referral
+1926,2026-03-22,USA,Paid Ads
+1927,2026-07-05,Germany,Organic
+1928,2026-03-25,India,Organic
+1929,2026-02-18,Germany,Organic
+1930,2026-11-18,USA,Paid Ads
+1931,2026-06-28,Germany,Organic
+1932,2026-01-20,UK,Organic
+1933,2026-11-17,Germany,Referral
+1934,2026-07-12,USA,Organic
+1935,2026-01-22,UK,Organic
+1936,2026-01-20,India,Organic
+1937,2026-10-02,UK,Referral
+1938,2026-11-24,UK,Organic
+1939,2026-08-27,USA,Organic
+1940,2026-07-27,Germany,Organic
+1941,2026-11-03,UK,Paid Ads
+1942,2026-04-06,UK,Paid Ads
+1943,2026-11-01,Germany,Organic
+1944,2026-12-01,USA,Paid Ads
+1945,2026-08-03,UK,Referral
+1946,2026-03-09,India,Organic
+1947,2026-10-06,UK,Referral
+1948,2026-10-12,Germany,Paid Ads
+1949,2026-06-30,Germany,Organic
+1950,2026-01-23,India,Organic
+1951,2026-06-15,USA,Paid Ads
+1952,2026-06-29,UK,Organic
+1953,2026-10-09,UK,Paid Ads
+1954,2026-02-14,UK,Referral
+1955,2026-07-30,India,Referral
+1956,2026-03-10,Germany,Organic
+1957,2026-08-05,India,Paid Ads
+1958,2026-04-22,India,Referral
+1959,2026-09-23,USA,Referral
+1960,2026-04-27,Germany,Paid Ads
+1961,2026-09-03,UK,Organic
+1962,2026-04-27,India,Referral
+1963,2026-01-20,UK,Paid Ads
+1964,2026-12-02,UK,Referral
+1965,2026-04-02,India,Paid Ads
+1966,2026-05-26,Germany,Paid Ads
+1967,2026-12-25,Germany,Paid Ads
+1968,2026-03-10,Germany,Referral
+1969,2026-06-06,India,Organic
+1970,2026-07-03,UK,Referral
+1971,2026-04-13,UK,Referral
+1972,2026-02-09,Germany,Organic
+1973,2026-12-26,India,Organic
+1974,2026-05-18,USA,Organic
+1975,2026-01-08,India,Referral
+1976,2026-05-26,UK,Organic
+1977,2026-01-19,USA,Organic
+1978,2026-07-03,UK,Paid Ads
+1979,2026-05-21,USA,Paid Ads
+1980,2026-06-30,UK,Organic
+1981,2026-01-18,USA,Organic
+1982,2026-01-21,USA,Paid Ads
+1983,2026-09-13,Germany,Paid Ads
+1984,2026-07-10,India,Organic
+1985,2026-09-15,UK,Organic
+1986,2026-06-20,Germany,Paid Ads
+1987,2026-01-12,UK,Referral
+1988,2026-07-07,Germany,Referral
+1989,2026-10-11,UK,Organic
+1990,2026-04-05,Germany,Organic
+1991,2026-10-07,USA,Paid Ads
+1992,2026-12-20,Germany,Organic
+1993,2026-07-30,USA,Paid Ads
+1994,2026-04-05,UK,Organic
+1995,2026-05-25,UK,Paid Ads
+1996,2026-07-24,Germany,Referral
+1997,2026-01-05,Germany,Organic
+1998,2026-08-26,Germany,Paid Ads
+1999,2026-07-19,USA,Referral
+2000,2026-10-10,Germany,Paid Ads
