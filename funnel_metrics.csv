@@ -1,0 +1,4 @@
+funnel_stage,users,conversion_rate,drop_off_users,drop_off_rate
+Signups,2000,1.0,0,0.0
+Engaged,1926,0.963,74,0.037
+Paid,988,0.494,938,0.487
